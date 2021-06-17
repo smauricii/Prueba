@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        hola.text="HOla mundo main asdassd"
+        hola.text="HOla mundo main asdassd me gusta jugar"
 
     }
 
